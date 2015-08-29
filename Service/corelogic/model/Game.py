@@ -6,3 +6,6 @@ class Game:
         self.gameOver = False
         self.rounds = []
         self.numMafia = 0
+
+    def run(self):
+        pass
