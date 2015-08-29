@@ -5,3 +5,4 @@ class Game:
         self.numPlayers = numPlayers
         self.gameOver = False
         self.rounds = []
+        self.numMafia = 0
